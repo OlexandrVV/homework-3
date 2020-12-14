@@ -58,6 +58,12 @@ img{
    letter-spacing: 2px;
 }
 
+.checkbox__images{
+   width: 20px;
+   height: 18px;
+   margin: -3px 1px;
+}
+
 .table-arrow{
    position: relative;
    display: inline-block;
